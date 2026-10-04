@@ -1,0 +1,8 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+next-env.d.ts
+# Environment files can hold secrets (e.g. GITHUB_TOKEN). Only the template is committed.
+.env*
+!.env.example
